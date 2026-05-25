@@ -1,1 +1,1 @@
-# projeto-banco-loja-suplementos
+# projeto-bd-loja-suplementos
